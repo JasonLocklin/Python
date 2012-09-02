@@ -1,0 +1,1 @@
+The Mosquito Detector is a simple program to detect the Mosquito Ring-tone or similar high-frequency audio sounds. To run it you need Python and several Python libraries installed (pyaudio, numpy, scipy). You also need pygame for audio notifications.
